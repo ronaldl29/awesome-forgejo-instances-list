@@ -9,3 +9,4 @@ A list of the top public Forgejo instances.
 
 [Pub.solar](https://git.pub.solar): a friendly community creating a digital corner pub.
 
+[Disroot](https://git.disroot.org): an Amsterdam-based project aims to change the way people are used to interact on the web.
