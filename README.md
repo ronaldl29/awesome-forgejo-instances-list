@@ -10,3 +10,9 @@ A list of the top public Forgejo instances.
 [Pub.solar](https://git.pub.solar): a friendly community creating a digital corner pub.
 
 [Disroot](https://git.disroot.org): an Amsterdam-based project aims to change the way people are used to interact on the web.
+
+[Kaki](https://git.kaki87.net): a free Forgejo instance ran by a French web developer.
+
+[SIJ.ai](https://sij.ai/): a free Forgejo instance intended for AI enthusiasts.
+
+[Git.gay](https://git.gay/): a free Forgejo instance ran by besties, a collective of queer and neurodiverse entities with the shared goal of providing free services for our communities. 
