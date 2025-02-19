@@ -1,3 +1,5 @@
+[![Forgejo](https://codeberg.org/ronaldl29/awesome-forgejo/raw/branch/main/forgejo-icon.png)]()
+
 # Awesome Forgejo List
 
 [![Awesome](https://awesome.re/badge-flat2.svg)]() [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
