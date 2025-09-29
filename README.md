@@ -18,3 +18,5 @@ A list of the top public Forgejo instances.
 [SIJ.ai](https://sij.ai/): a free Forgejo instance intended for AI enthusiasts.
 
 [Git.gay](https://git.gay/): a free Forgejo instance ran by besties, a collective of queer and neurodiverse entities with the shared goal of providing free services for our communities. 
+
+[CodeFloe](https://codefloe.com/): a free and open Forgejo instance owned by a Swiss DevOps company. Includes a Forum for public user discussions.
