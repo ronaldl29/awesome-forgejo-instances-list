@@ -6,6 +6,9 @@
 
 A list of the top public Forgejo instances.
 
+# What is Forgejo?
+An open source alternative to Github.
+
 ### Forgejo Instaces
 [Codeberg](https://codeberg.org): a democratic community-driven, non-profit software development platform ran by a German non-profit organization.
 
