@@ -12,6 +12,8 @@ An open source alternative to Github.
 # Forgejo Instances
 [Codeberg](https://codeberg.org): a democratic community-driven, non-profit software development platform ran by a German non-profit organization.
 
+[CodeFloe](https://codefloe.com): an EU-based public instance running on donations. Allows for unlimited private repos. Operated by [devXY](https://devxy.io).
+
 [Pub.solar](https://git.pub.solar): a friendly community creating a digital corner pub.
 
 [Disroot](https://git.disroot.org): an Amsterdam-based project aims to change the way people are used to interact on the web.
