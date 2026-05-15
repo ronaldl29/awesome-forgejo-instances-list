@@ -23,3 +23,5 @@ An open source alternative to Github.
 [SIJ.ai](https://sij.ai/): a free Forgejo instance intended for AI enthusiasts.
 
 [Git.gay](https://git.gay/): a free Forgejo instance ran by besties, a collective of queer and neurodiverse entities with the shared goal of providing free services for our communities. 
+
+[Larason.space](https://larason.space) :a free public accessible forgejo instance ran by the Larason team(made of 2 students from University of Dar es salaam) from Tanzania to help people host their codes easily.
