@@ -10,7 +10,7 @@ A list of the top public Forgejo instances (or servers).
 An open source alternative to Github.
 
 # Forgejo Instances
-[Bolha](https://bolha.dev)
+[Bolha](https://bolha.dev): instance ran by a Brazilian IT collective.
 
 [Codeberg](https://codeberg.org): a democratic community-driven, non-profit software development platform ran by a German non-profit organization.
 
