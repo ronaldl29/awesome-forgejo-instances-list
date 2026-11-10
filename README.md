@@ -10,6 +10,8 @@ A list of the top public Forgejo instances (or servers).
 An open source alternative to Github.
 
 # Forgejo Instances
+[Bolha](https://bolha.dev)
+
 [Codeberg](https://codeberg.org): a democratic community-driven, non-profit software development platform ran by a German non-profit organization.
 
 [CodeFloe](https://codefloe.com): an EU-based public instance running on donations. Allows for unlimited private repos. Operated by [devXY](https://devxy.io).
@@ -22,4 +24,4 @@ An open source alternative to Github.
 
 [SIJ.ai](https://sij.ai/): a free Forgejo instance intended for AI enthusiasts.
 
-[Git.gay](https://git.gay/): a free Forgejo instance ran by besties, a collective of queer and neurodiverse entities with the shared goal of providing free services for our communities. 
+[Git.gay](https://git.gay/): a free Forgejo instance ran by besties, a collective of queer and neurodiverse entities with the shared goal of providing free services for our communities.
